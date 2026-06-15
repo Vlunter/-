@@ -1,0 +1,14 @@
+# Snitch v2 — OSINT Dork Scanner
+# Python 3.12+ required
+
+# Async HTTP client (core dependency)
+aiohttp>=3.11.0
+
+# Optional: SOCKS proxy support
+# PySocks>=1.7.1
+
+# Optional: Rich terminal output (for future progress bars)
+# rich>=13.9.0
+
+# Optional: TOML config support (for future config file)
+# tomli>=2.0.2; python_version < "3.11"
